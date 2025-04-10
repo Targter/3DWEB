@@ -3,22 +3,22 @@ import { easeIn, motion } from "framer-motion";
 const Form = ({ changebackground }) => {
   const arrimage = [
     {
-      path: "public/moving1.png",
+      path: "moving1.png",
       positionX: [-200, 1700],
       positionY: [-100, 200],
     },
     {
-      path: "public/moving2.png",
+      path: " moving2.png",
       positionX: [1700, -500],
       positionY: [-100, 200],
     },
     {
-      path: "public/moving3.png",
+      path: " moving3.png",
       positionY: [800, 0],
       positionX: [-100, 1500],
     },
     {
-      path: "public/moving4.jpg",
+      path: " moving4.jpg",
       positionY: [1000, 0],
       positionX: [1200, -1000],
     },
