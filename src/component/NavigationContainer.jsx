@@ -62,7 +62,7 @@ const NavgatingContainer = ({ changebackground }) => {
           animate={{ scale: 1 }}
           transition={{ duration: 1, delay: 0.8 }}
         >
-          <video src="public\uffhnbd.mp4" loop autoPlay muted>
+          <video src="uffhnbd.mp4" loop autoPlay muted>
             this is the video
           </video>
         </motion.div>
